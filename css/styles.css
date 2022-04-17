@@ -482,8 +482,8 @@ img, a {
     border: 1px solid var(--accent-color);
 }
 
-.partner-link:hover .partnet-icon,
-.partner-link:focus .partnet-icon {
+.partner-link:hover .partner-icon,
+.partner-link:focus .partner-icon {
     fill: var(--accent-color);
 }
 
