@@ -154,6 +154,7 @@ img, a {
 
 .header-mail-icon,
 .header-tel-icon {
+    fill: #757575;
     margin: auto 10px auto 0;
     /* margin-right: 10px; */
     /* display: block;   111111111111111111111111111111111111111*/   
